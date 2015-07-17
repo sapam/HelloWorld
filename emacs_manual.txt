@@ -1,3 +1,5 @@
+C-h i emacs help
+
 C-g quit
 C-x C-c exit
 C-x C-f open / "visit" a file
@@ -43,4 +45,30 @@ M-x query-replace
 M-%
 M-$ spell check word
 
-Hello Worldos
+DIRED
++ adds a directory
+d marks a file/dir for deletion
+m mark a file/dir
+t toggle mark
+x execute deletion
+u unmark selected
+U unmark All
+*/ mark all directories
+! launch a file with a shell command
+g refresh content of buffer
+C copy command
+A search regular expression
+R rename file/dir
+s sorting order toggel
+C-x C-q make dired buffer editable
+C-c C-c commit changes to buffer
+C-c Esc revert changes to buffer
+
+M-x find-dired <--- use find command syntax for dired
+M-x locate <--- use locate command
+C-u M-x locate <--- ask to run command. can use to add |
+M-x rgrep <--- grep recursively
+M-x lgrep <--- grep only the base path
+
+
+C-x C-e evaluate line by moving to end of line

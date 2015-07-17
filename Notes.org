@@ -10,3 +10,14 @@
   |     1 | Chingkhei |  36 |
   |     2 | Shaurya   |   5 |
   |     3 | Nirmala   |  34 |
+* Emacs Checklist
+** Kill Menu/Toolbar
+** Change Dired Modes
+** Adjust Mini Buffer Setting
+** enable ido-mode
+** Add Repository Melpa-Stable Repository
+** Install magit 
+** Install org
+** Install nyan Mode ( funky )
+
+* Tutor
