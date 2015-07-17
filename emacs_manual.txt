@@ -1,0 +1,46 @@
+C-g quit
+C-x C-c exit
+C-x C-f open / "visit" a file
+C-x k kill the buffer representing a file... not deleting a file
+
+C-f move forward one character
+C-b move back
+M-f move forward one word
+M-b move back one word
+
+C-d delete a characted
+M-d delete a word
+C-_ undo
+
+C-p previous line / up
+C-n next line / down
+C-a move to begining of the line
+C-e move to end of the line
+
+M-< begining of buffer
+M-> end of buffer
+C-v page down
+M-v page up
+
+C-x 2 spilt top/bottom
+C-x o other window
+C-x 3 split left/right
+C-x 1 remove all windows - simplify life
+
+C-l center around the cursor
+
+Search
+C-s text <---- search
+C-s Text <---- case sensitive search
+
+C-space <--- start / toggele marking a region
+M-w copy
+C-w cut
+C-k kill to end of line
+C-y yank / paste
+
+M-x query-replace
+M-%
+M-$ spell check word
+
+Hello Worldos
