@@ -72,3 +72,17 @@ M-x lgrep <--- grep only the base path
 
 
 C-x C-e evaluate line by moving to end of line
+
+RECTANGLE
+C-x SPC <--- toggle rectangle mark mode
+C-x r k <--- kill the text in region-rectangle
+C-x r r <--- copy the text in region-rectangle
+C-x r d <--- delete the text in region-rectangle
+C-x r y <--- yank last kill regionsrectangle
+C-x r M-w <--- save the text in region rectangle
+C-x r o <--- insert blank space to fill the text right of region-rectangle
+C-x r N <--- insert line number along the left edge of the region-rectangle
+C-x r c <--- clear region-rectangle by replacing it with spaces.
+M-x delete-whitespace-rectangle <--- delete white spaces in each line on the specified rectangle
+C-x r t string RET <--- replace rectangle contents with string on each line
+M-x string-insert-rectangle RET string RET <--- insert string on each line of the rectangle
